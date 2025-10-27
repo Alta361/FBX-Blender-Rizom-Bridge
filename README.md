@@ -22,11 +22,17 @@ The solution: This addon extracts and preserves RizomUV group data through a sma
 ## Features
 
 ✓ Import from RizomUV - Extract FBX with full metadata (groups, seams)
+
 ✓ Export to RizomUV - Inject UV groups back into FBX automatically
+
 ✓ Cache Management - Smart caching system for multiple projects
+
 ✓ Selected Objects Export - Export single or multiple meshes
+
 ✓ Blender 4.2+ Compatible - Tested and optimized for latest Blender
+
 ✓ File Menu Integration - Standard Blender import/export workflo
+
 
 ## Installation
 Method 1: Install from Blender (Recommended)
