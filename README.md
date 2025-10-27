@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/badge/version-2.1.2-blue)
+![Blender](https://img.shields.io/badge/Blender-4.2+-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+
 # FBX-Blender-Rizom-Bridge
 
 Blender ↔ RizomUV Addon 
