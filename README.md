@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-2.1.2-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Blender](https://img.shields.io/badge/Blender-4.2+-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
