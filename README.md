@@ -113,7 +113,44 @@ See LICENSE file for full details.
 
 **Last Updated:** October 2025
 
+### Tested Configurations
 
+✓ Blender 4.2 (Windows 64-bit)  
+✓ RizomUV 2024  
+✓ Windows 11   
+
+### Not Tested
+
+- macOS or Linux
+- Other Blender and RizomUV versions
+
+---
+
+## Developer Notes
+
+### File Formats
+
+**Cache Format (.dat):**
+- Binary format
+- Contains extracted RizomUV metadata
+- One cache per imported FBX
+- Stored in `.cache/` folder
+
+---
+
+## Support & Contribution
+
+**Report Issues:**
+- Create detailed bug reports
+- Include Blender version, OS, and steps to reproduce
+- Attach small test files if possible
+
+**Want to Contribute?**
+- Fork the repository
+- Make improvements
+- Submit pull requests
+
+---
 
 ---
 
