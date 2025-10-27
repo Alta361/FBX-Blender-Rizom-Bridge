@@ -58,7 +58,6 @@ Restart Blender
 4. Blender → File > Export > RizomUV Bridge
    (Injects UV groups from cache)
 5. RizomUV → Import FBX
-   → Groups preserved! ✓
 
 Important: UV groups are only preserved for objects whose topology wasn't changed in Blender.
 
@@ -71,16 +70,9 @@ Access via: View 3D > RizomUV Panel (sidebar)
 - **Cache List** - Manage cached files
 - **Clear All Caches** - Remove all cached data
 
----
 
-Technical Details
-What Gets Preserved
-✓ RizomUV UV Island Groups
-✓ Custom RizomUV properties
-✓ Mesh structure
-✓ Material assignments
+## Known Limitations
 
-Known Limitations
 ⚠️ UV Edge Merging (FBX Format Issue)
 
 In some cases, UV edges may be merged during the Blender → RizomUV export cycle. Based on my observation, this appears to be related to how the FBX format stores UV coordinates (per-vertex rather than per-face-corner, unlike Blender's internal structure).
@@ -95,21 +87,6 @@ This issue affects all Blender ↔ RizomUV workflows, not just this addon
 
 Note: This is my interpretation of the issue based on testing. The exact cause may be more complex and involve both Blender's FBX exporter behavior and the FBX format specification.
 
-
----
-
-## Troubleshooting
-
-**Problem:** "Extractor not found!"
-- **Solution:** Place `ekstraktor.exe` in `bin/` folder
-
-**Problem:** No cache appears
-- **Solution:** Import an FBX first to create cache
-
-**Problem:** UV groups not showing in RizomUV
-- **Solution:** Check that topology didn't change (causes re-merging)
-
----
 
 ## License
 This addon is provided free for personal and commercial use under the MIT License.
