@@ -109,6 +109,8 @@ See LICENSE file for full details.
 
 **Email:** [Patryk.Dylus@gmail.com] 
 
+**GitHub:** [https://github.com/Alta361/FBX-Blender-Rizom-Bridge]
+
 **Version:** 1.0  
 
 **Last Updated:** October 2025
