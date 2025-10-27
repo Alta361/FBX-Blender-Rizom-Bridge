@@ -1,5 +1,4 @@
 # FBX-Blender-Rizom-Bridge
-# RizomUV Bridge
 
 Blender ↔ RizomUV Addon 
 
