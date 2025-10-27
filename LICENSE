@@ -1,6 +1,8 @@
-MIT License
+# RizomUV Bridge - License & Legal
 
-Copyright (c) 2025 Alta361
+## MIT License
+
+Copyright (c) 2025 [Alta]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +21,125 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+### Blender
+- **License:** GPL 2.0 / Commercial
+- **Used:** Python API, UI Framework
+- **URL:** https://www.blender.org/
+
+### Autodesk FBX SDK
+- **License:** Autodesk FBX SDK License Agreement
+- **Used:** FBX file reading/writing
+- **URL:** https://www.autodesk.com/products/fbx/
+
+### RizomUV
+- **License:** Commercial Software
+- **Note:** This addon is an independent tool for RizomUV interoperability
+- **URL:** https://www.rizom-lab.com/
+
+---
+
+## Disclaimer
+
+This is a **community-developed tool** and is NOT officially affiliated with:
+- Blender Foundation
+- Autodesk
+- Rizom Lab
+
+**Use at your own risk.** Always backup your files before using with valuable projects.
+
+The creator assumes NO LIABILITY for:
+- Data loss or corruption
+- Unexpected behavior with specific mesh types
+- Incompatibility with future Blender/RizomUV versions
+- Hardware issues or crashes
+
+---
+
+### Tested Configurations
+
+✓ Blender 4.2 (Windows 64-bit)  
+✓ RizomUV 2024  
+✓ Windows 11   
+
+### Not Tested
+
+- macOS or Linux
+- Other Blender and RizomUV versions
+
+---
+
+## Developer Notes
+
+### File Formats
+
+**Cache Format (.dat):**
+- Binary format
+- Contains extracted RizomUV metadata
+- One cache per imported FBX
+- Stored in `.cache/` folder
+
+---
+
+## Support & Contribution
+
+**Report Issues:**
+- Create detailed bug reports
+- Include Blender version, OS, and steps to reproduce
+- Attach small test files if possible
+
+**Want to Contribute?**
+- Fork the repository
+- Make improvements
+- Submit pull requests
+
+---
+
+## Commercial Use
+
+This addon is **free for both personal and commercial use**.
+
+If you use this in a commercial product, attribution is appreciated but not required.
+
+---
+
+## Privacy
+
+This addon:
+- Does NOT collect user data
+- Does NOT send information to external servers
+- Does NOT require internet connection
+- Works completely offline
+
+Cache files are stored locally in the addon folder.
+
+---
+
+## Warranty
+
+**NO WARRANTY IS PROVIDED**
+
+This software is provided "as-is" without any warranty of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+The user assumes all responsibility and risk for the use of this software.
+
+---
+
+## Contact & Attribution
+
+**Creator:** [Alta]  
+**Website:** [https://alta36.artstation.com/]  
+**Email:** [Patryk.Dylus@gmail.com]  
+
+
+---
+
+## Version History
+
+**v1.0** (2025-10-26)
+
+**Last Updated:** October 26, 2025
