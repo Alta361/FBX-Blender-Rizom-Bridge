@@ -104,10 +104,15 @@ See LICENSE file for full details.
 ## Support & Contact
 
 **Creator:** [Alta]  
+
 **Website:** [https://www.artstation.com/alta36]
+
 **Email:** [Patryk.Dylus@gmail.com] 
+
 **Version:** 1.0  
+
 **Last Updated:** October 2025
+
 
 
 ---
